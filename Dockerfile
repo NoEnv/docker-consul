@@ -1,1 +1,1 @@
-FROM consul:1.13.1
+FROM consul:1.13.2
