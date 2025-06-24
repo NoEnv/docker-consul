@@ -1,1 +1,1 @@
-FROM hashicorp/consul:1.21.1
+FROM hashicorp/consul:1.21.2
